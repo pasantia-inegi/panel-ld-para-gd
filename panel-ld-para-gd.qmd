@@ -1,0 +1,95 @@
+---
+# title: "Capacitación en R y herramientas de productividad"
+# author: "Abril 2021"
+format:
+  revealjs:
+    auto-stretch: false
+    margin: 0
+    slide-number: true
+    scrollable: true
+    preview-links: auto
+    logo: imagenes/logo_portada2.png
+    css: ine_quarto_styles.css
+    # footer: <https://quarto.org>
+---
+
+#
+
+
+[]{.linea-superior} 
+[]{.linea-inferior} 
+
+<!---
+ <img src="imagenes/logo_portada2.png" style="width: 20%"/>  
+--->
+
+<img src="imagenes/logo_portada2.png" width="20%"/>  
+
+
+[**Panel de conversación: lagos de datos para el gobierno de datos**]{.big-par .center-justified}
+
+[**INEGI - INE**]{.big-par .center-justified}
+
+[**Abril 2024**]{.big-par .center-justified}
+
+
+## Antecedentes {transition="zoom"}
+
+<br/>
+
+[**Artículo 7**.- Funciones. Corresponderá al Instituto Nacional de Estadísticas:]{.big-par}
+
+[**Número 4.** *Requerir de manera fundada y recibir de los órganos de la Administración del Estado la información y antecedentes necesarios	para la elaboración veraz y oportuna de información estadística, los datos nominados que se encuentren en algún registro administrativo y que guarden estricta relación con sus respectivas esferas de competencia, incluso respecto de aquellas instituciones cuya entrega de información se encuentre amparada por algún tipo de reserva. En este último caso, el personal del Instituto Nacional de Estadísticas que tome conocimiento de dicha información estará sujeto, además del secreto estadístico, a la misma norma legal que ampara la reserva.*]{.medium-par}
+
+## Antecedentes {transition="zoom"}
+
+<br/>
+
+[**Número 5.** *Solicitar y recibir de los órganos de la Administración del Estado, del Congreso Nacional, del Poder Judicial y de los órganos autónomos constitucionales, la información y antecedentes necesarios para la elaboración veraz y oportuna de información estadística de datos que guarden estricta relación con sus respectivas esferas de competencia, de acuerdo con lo señalado en el artículo 46.*]{.medium-par}
+
+[**Número 6.** *Proporcionar las bases de datos innominadas e indeterminadas que resulten del tratamiento de registros administrativos, de encuestas o de censos, conjunta o indistintamente, que le sean solicitadas por órganos de la Administración del Estado para el ejercicio de sus funciones, de acuerdo con lo dispuesto en esta ley.*]{.medium-par}
+
+[**Número 10.** *Entregar información en todo aquello que se refiera a aspectos geográficos de carácter civil y para efectos estadísticos, que sirvan de base para la adopción de decisiones por parte de los órganos de la Administración del Estado.*]{.medium-par}
+
+## Antecedentes {transition="zoom"}
+
+<br/>
+
+[**Número 11.** *Colaborar con universidades e investigadores, ofreciendo prácticas profesionales o asistencias metodológicas en investigaciones que éstos realicen, que sean de interés estadístico*]{.medium-par}
+
+[**Número 15.** *Confeccionar y mantener actualizado un registro de las personas naturales y jurídicas, viviendas, establecimientos y registros administrativos que constituyan fuente de información estadística.*]{.medium-par}
+
+## Tópicos orientadores {transition="zoom"}
+
+<br/>
+
+¿Qué rol podría jugar un lago de datos para el gobierno de los datos estadísticos y geoestadísticos?
+
+    - Ventajas de esta arquitectura
+    - Desafíos de esta arquitectura
+    
+¿Qué desafíos se vislumbran para el INE Chile desde el punto de vista de la infraestructura disponible?
+	
+    - Mandato de la nueva ley del INE en torno al gobierno de datos:
+
+
+#
+
+[]{.linea-superior} 
+[]{.linea-inferior} 
+
+<!---
+ <img src="imagenes/logo_portada2.png" style="width: 20%"/>  
+--->
+
+<img src="imagenes/logo_portada2.png" width="20%"/>  
+
+
+[**GRACIAS**]{.big-par .center-justified}
+
+[**Panel de conversación: lagos de datos para el gobierno de datos**]{.big-par .center-justified}
+
+[**INEGI - INE**]{.big-par .center-justified}
+
+[**Abril 2024**]{.big-par .center-justified}
+
